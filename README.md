@@ -1,6 +1,7 @@
 Commweb Payment Transactions for Merchant-Hosted Payment                                                                         
 ========================================================
 
+```
 public function commwebOrderHandler()
 {
   $returnUrl = '/commweb-response-handler.html';
@@ -30,3 +31,4 @@ public function commwebOrderHandler()
   
   $this->get('paymentService')->paymentProcessedSuccessfully($this->getParam('payment_id');
  }
+```
