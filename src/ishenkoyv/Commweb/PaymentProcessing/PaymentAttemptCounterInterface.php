@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Copyright 2013 Yurii Ishchenko <ishenkoyv@gmail.com>
+ * Copyright 2018 Yurii Ishchenko <ishenkoyv@gmail.com>
  *
  * Licensed under the MIT License (the "License");
  */
