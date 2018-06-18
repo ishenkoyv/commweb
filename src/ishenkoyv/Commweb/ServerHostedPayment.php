@@ -12,11 +12,11 @@ use Ishenkoyv\Commweb\Exception\ResponseInvalidSignatureException,
     Ishenkoyv\Commweb\Exception\PaymentAttemptCounterInterface;
 
 /**
- * MerchantHostedPayment 
+ * ServerHostedPayment 
  * 
  * @author Yuriy Ishchenko <ishenkoyv@gmail.com> 
  */
-class MerchantHostedPayment
+class ServerHostedPayment
 {
     protected $accessCode;
     protected $merchant;

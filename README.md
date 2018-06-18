@@ -1,5 +1,10 @@
-Commweb Payment Transactions for Merchant-Hosted Payment                                                                         
+Commweb Payment Transactions for Server-Hosted Payment                                                                         
 ========================================================
+
+https://www.commbank.com.au
+
+CommWeb is a fast and reliable payments acceptance service for your online shop. Get world-class security and streamline your payments administration.
+The GET method with a Query String containing the transaction request fields, and a HTTPS Redirect, is used to send the transaction request via the CommWeb Virtual Payment Client to the payment Server, when using Server-Hosted Payments.
 
 ```
 public function commwebOrderHandler()

@@ -1,6 +1,6 @@
 {
     "name": "ishenkoyv/commweb",
-    "description": "CommWeb integration library for the Merchant-Hosted Payment",
+    "description": "CommWeb integration library for the Server-Hosted Payment",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0"
